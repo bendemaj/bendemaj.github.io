@@ -25,11 +25,7 @@ const presentation: Presentation = {
     },
     {
       label: "Contact",
-      link: "mailto:bendemaj.ad@gmail.com"
-    },
-    {
-      label: "CV (Deutsch) ",
-      link: "/public/CV_demaj.pdf"
+      link: "mailto:bendemaj.ad@gmail.com",
     },
   
   ],
